@@ -1,5 +1,7 @@
 {
-  "url": "https://yourusername.github.io/tonconnect-manifest",
+  "url": "https://rxnydash1337.github.io/tonconnect-manifest/",
   "name": "TON WebApp",
-  "iconUrl": "https://rxnydash1337tonconnect-manifest/images/icon.png",
+  "iconUrl": "https://rxnydash1337.github.io/tonconnect-manifest/icon.png",
+  "features": ["ton-connect"],
+  "bridge": "https://bridge.tonapi.io/bridge"
 }
