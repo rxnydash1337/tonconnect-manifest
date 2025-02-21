@@ -1,6 +1,6 @@
 {
   "url": "https://rxnydash1337.github.io/tonconnect-manifest/",
-  "name": "TON WebApp",
+  "name": "Bunny WEB APP",
   "iconUrl": "https://rxnydash1337.github.io/tonconnect-manifest/icon.png",
   "features": ["ton-connect"],
   "bridge": "https://bridge.tonapi.io/bridge"
